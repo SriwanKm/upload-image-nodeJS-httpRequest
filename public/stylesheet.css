@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    background-color: #171717;
+    font-family: 'RocknRoll One', sans-serif;
+    color: #fc75bb;
+    font-size: 1.5em;
+}
+
+h1 {
+    font-family: 'Redressed', cursive;
+    font-size: 3.5rem;
+    font-weight: bolder;
+    margin-bottom: 10px;
+    color: #fc59a5;
+}
