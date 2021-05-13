@@ -19,7 +19,7 @@ http.createServer(function (req, res) {
 
             fs.rename(oldpath, newpath, function (err) {
                 if (err) throw err;
-                res.write('File uploaded and moved!');
+                res.write('Your file is uploaded to the folder "uploadedImg" in this project');
                 res.end();
             });
         });
